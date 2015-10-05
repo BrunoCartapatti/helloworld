@@ -5,5 +5,3 @@
 
 //essa é a nova função
 //ela não faz nada :/
-
-// e esse teste maluco agora?
