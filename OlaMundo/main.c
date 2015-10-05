@@ -6,4 +6,6 @@
 //essa é a nova função
 //ela não faz nada :/
 
-// mudou!
+//agora vamos ver numero 2
+
+//vixe
