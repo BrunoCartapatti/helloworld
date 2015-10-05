@@ -13,3 +13,6 @@ class classe1
 
 #endif // CLASSE1_H
 //classe de teste
+//adicionando uma nova linha
+
+// eae
